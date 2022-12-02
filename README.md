@@ -3,3 +3,4 @@
 
 ## Dependencies
 * i3wm
+* polybar
