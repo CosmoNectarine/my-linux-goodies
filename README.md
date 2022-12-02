@@ -2,3 +2,4 @@
  My Linux Files
 
 ## Dependencies
+* i3wm
