@@ -1,6 +1,6 @@
 # my-linux-goodies
  My Linux Files
 
-## Dependencies
+## Packages
 * i3wm
 * polybar
