@@ -5,3 +5,4 @@
 * i3wm
 * polybar
 * rofi
+* nitrogen
