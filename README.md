@@ -4,3 +4,4 @@
 ## Packages
 * i3wm
 * polybar
+* rofi
