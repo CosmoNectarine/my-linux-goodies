@@ -18,4 +18,5 @@ mod+Return   : Launch Alacritty Terminal
 mod+Tab      : Launch Rofi Application Launcher
 mod+x        : Kill Focused Window
 mod+(1-8)    : Switch to Workspace
+mod+L        : Lock Screen
 ```
